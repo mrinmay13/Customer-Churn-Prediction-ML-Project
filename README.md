@@ -20,7 +20,7 @@ The goal is to support business decisions and customer retention strategies usin
 
 📊 Dataset
 - **Name**: `Customer_data`
-- **Source**: [Provided internally or via file upload]
+- **Source**: https://docs.google.com/document/d/1V-L3EdEnEEiYHhxppRY_CkPRbJ77ELYc/edit?tab=t.0
 - **Features Include**:
   - CustomerID
   - Gender
