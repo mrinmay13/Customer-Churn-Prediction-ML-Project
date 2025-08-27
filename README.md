@@ -90,6 +90,3 @@ The goal is to support business decisions and customer retention strategies usin
 - Seaborn, Matplotlib
 - XGBoost / LightGBM (optional for boosting models)
 
----
-
-## 📁 Project Structure (Sample)
